@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">space</string>
+    <string name="facebook_app_id">425573502484799</string>
+    <string name="fb_login_protocol_scheme">fb425573502484799</string>
+    <string name="default_notification_channel_id">varsayilan</string>
+</resources>
